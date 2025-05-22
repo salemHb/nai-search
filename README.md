@@ -1,6 +1,7 @@
-#  Nai-Search: House Hunting Application for Nairobi
+# Nai-Search: House Hunting Application for Nairobi
 
 Nai-Search is a web application designed to simplify the process of searching, renting, and buying apartments in Nairobi, Kenya. It provides a user-friendly interface for tenants and buyers to browse properties and an admin dashboard for landlords, caretakers, or property managers to manage listings and interact with users. Built with React, Vite, and Tailwind CSS, it offers a responsive and modern experience.
+
 ## Features
 
 Property Search: Users can search for apartments by location, price, size, or other criteria in Nairobi.
@@ -15,6 +16,7 @@ Modern UI: Built with Tailwind CSS for a sleek, responsive design.
 Scalable Architecture: Frontend powered by React and Vite for fast development and performance.
 
 ## Tech Stack
+
 Frontend: React, Vite, Tailwind CSS
 Backend: Node.js, Express
 Database: MongoDB
@@ -30,5 +32,6 @@ Access the admin dashboard to manage property listings.
 View and respond to tenant/buyer inquiries.
 Update property details or availability.
 
+Test User Authentication
 
 For inquiries, reach out via [husseinsalim419@gmail.com] or open an issue on GitHub.
