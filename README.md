@@ -2,6 +2,8 @@
 
 Nai-Search is a web application designed to simplify the process of searching, renting, and buying apartments in Nairobi, Kenya. It provides a user-friendly interface for tenants and buyers to browse properties and an admin dashboard for landlords, caretakers, or property managers to manage listings and interact with users. Built with React, Vite, and Tailwind CSS, it offers a responsive and modern experience.
 
+![image](https://github.com/user-attachments/assets/94d16c9a-12c5-4ea0-b3aa-fffec248f427)
+
 ## Features
 
 Property Search: Users can search for apartments by location, price, size, or other criteria in Nairobi.
